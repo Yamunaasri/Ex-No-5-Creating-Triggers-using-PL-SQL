@@ -1,5 +1,9 @@
 # Ex. No: 5 Creating Triggers using PL/SQL
-
+### DATE: 12.09.2023
+```
+DEVELOPED BY: YAMUNAASRI
+REG NO: 212222240117
+```
 ### AIM: 
 To create a Trigger using PL/SQL.
 
